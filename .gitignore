@@ -1,0 +1,38 @@
+# Файлы IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Сборка проекта
+target/
+out/
+build/
+bin/
+*.class
+*.jar
+*.war
+*.ear
+
+# Логи
+*.log
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Файлы ОС
+*.swp
+*.swo
+*~
+
+# Файлы зависимостей (если используете)
+node_modules/
+.pnpm-store/
+
+# Файлы конфигурации среды
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
